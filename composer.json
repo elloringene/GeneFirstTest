@@ -1,0 +1,17 @@
+{
+    "name": "elloringene/gene-first-test",
+    "description": "Test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Elloringene\\GeneFirstTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "elloringene",
+            "email": "elloringene@gmail.com"
+        }
+    ],
+    "require": {}
+}
