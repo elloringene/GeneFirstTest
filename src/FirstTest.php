@@ -1,6 +1,6 @@
 <?php
 
-namespace GeneFirstTest\FirstTest;
+namespace Elloringene\GeneFirstTest;
 
 class FirstTest {
     protected string $value;
